@@ -1,6 +1,6 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
-## Reactie Local State
+## Reactive Local State
 We all know using a state management library is not trivial to work with. But there is a solution that you would love. You can use DexieJs to take advantage of browser built-in reactive IndexedDB.
 
 You can also use the same technique for offline mode.
